@@ -29,7 +29,7 @@ Built with a focus on performance, responsiveness, and elegant UI, SnapVerse del
 ## 🚀 Live Demo
 
 Check out the deployed version here:  
-🌐 [SnapVerse on Netlify](https://jocular-sprite-109b1d.netlify.app/)
+🌐 [SnapVerse Application](https://snapverse-app.netlify.app)
 
 > ⚠️ **Note**: Unsplash API has a rate limit of 50 requests per hour.
 
